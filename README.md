@@ -11,25 +11,55 @@
 
 Sou desenvolvedora full stack na **Orpen**, uma plataforma omnichannel, onde entrei como estagiária em 2025 e fui efetivada após 10 meses. Antes do código, passei quatro anos coordenando projetos com clientes, levantando necessidades, organizando prazos e apresentando entregas. Foi ali que aprendi que o mais difícil não é construir: é entender o que precisa ser construído.
 
-- `agora` &nbsp;APIs e integrações em NestJS e Spring Boot, interfaces em React com TypeScript, requisitos e apoio às sprints
-- `formação` &nbsp;Análise e Desenvolvimento de Sistemas na Unisinos (conclusão em dez/2026) · Arquitetura e Urbanismo na PUCRS
+No dia a dia, faço a ponte entre o negócio e o time técnico: analiso chamados, investigo a causa raiz com quem pediu, escrevo os requisitos e desenvolvo a solução. Trabalho com IA guiada por especificação e crio ferramentas próprias que automatizam partes do meu trabalho, como a geração de cenários de teste e de consultas ao banco.
+
+Busco atuar onde código e produto se encontram: entender o problema, decidir o que construir e entregar de ponta a ponta.
+
+- `agora` &nbsp;APIs e integrações com sistemas de terceiros em NestJS e Spring Boot, interfaces em React com TypeScript, testes automatizados e apoio às sprints
+- `antes` &nbsp;4 anos como analista de projetos, coordenando de 3 a 4 projetos simultâneos e apresentando soluções para públicos técnicos e não técnicos
 - `destaque` &nbsp;liderei o ChronoTracker na Residência em TIC 55: time de 5 pessoas, 13 sprints, aprovado na banca final
+- `formação` &nbsp;Análise e Desenvolvimento de Sistemas na Unisinos (conclusão em dez/2026) · Arquitetura e Urbanismo na PUCRS · Scrum Fundamentals Certified
+- `idiomas` &nbsp;português nativo · inglês e espanhol intermediários
 - `onde` &nbsp;Porto Alegre, RS · remoto ou híbrido
 
 <br>
 
 ## `02` Stack
 
-| | |
-| :-- | :-- |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" height="48" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS"> |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,php&theme=dark" height="48" alt="Node.js, NestJS, Java, Spring Boot, PHP"> |
-| **Mobile** | <img src="assets/stack-mobile.svg" height="48" alt="React Native, Expo"> |
-| **Dados** | <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" height="48" alt="PostgreSQL, MySQL, Prisma"> &nbsp;+ Oracle |
-| **Qualidade** | <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" height="48" alt="Jest, Vitest"> &nbsp;+ JUnit · WireMock · BDD |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux&theme=dark" height="48" alt="Git, GitHub Actions, Docker, Linux"> |
-| **IA** | Spec-Driven Development · Claude Code · MCP |
-| **Produto** | Requisitos · Scrum (SFC) · Jira · ClickUp · Miro |
+<table align="center">
+  <tr>
+    <td align="right"><b>Front-end</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" height="48" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Back-end</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,php&theme=dark" height="48" alt="Node.js, NestJS, Java, Spring Boot, PHP"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Mobile</b></td>
+    <td align="center"><img src="assets/stack-mobile.svg" height="48" alt="React Native, Expo"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Dados</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" height="48" alt="PostgreSQL, MySQL, Prisma"> &nbsp;+ Oracle</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Qualidade</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" height="48" alt="Jest, Vitest"> &nbsp;+ JUnit · WireMock · BDD</td>
+  </tr>
+  <tr>
+    <td align="right"><b>DevOps</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux&theme=dark" height="48" alt="Git, GitHub Actions, Docker, Linux"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>IA</b></td>
+    <td align="center">Spec-Driven Development · Claude Code · MCP</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Produto</b></td>
+    <td align="center">Requisitos · Scrum (SFC) · Jira · ClickUp · Miro</td>
+  </tr>
+</table>
 
 <br>
 
@@ -40,7 +70,7 @@ Sou desenvolvedora full stack na **Orpen**, uma plataforma omnichannel, onde ent
 Plataforma SaaS de gestão de projetos e horas, feita para um desafio real da Sinosbyte na Residência em TIC 55.<br>
 **Papel:** líder do projeto e desenvolvimento · **Time:** 5 pessoas · **Resultado:** aprovado na banca final
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,postgres,prisma&theme=dark" height="32" alt="React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma">
+<p align="center"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,postgres,prisma&theme=dark" height="32" alt="React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma"></p>
 
 <details>
 <summary><b>Ver o caso em 30 segundos</b></summary>
@@ -59,7 +89,7 @@ Plataforma SaaS de gestão de projetos e horas, feita para um desafio real da Si
 App mobile que reúne a agenda cultural de Porto Alegre num só lugar. É o meu TCC na Unisinos, com código público a partir de dez/2026.<br>
 **Papel:** idealização, produto e desenvolvimento · **Até agora:** 782 eventos coletados automaticamente desde ago/2026
 
-<img src="assets/stack-tcc.svg" height="32" alt="React Native, Expo, NestJS, PostgreSQL, Prisma">
+<p align="center"><img src="assets/stack-tcc.svg" height="32" alt="React Native, Expo, NestJS, PostgreSQL, Prisma"></p>
 
 <br>
 
