@@ -1,41 +1,83 @@
-### Rafaela Brietzke
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Rafaela Brietzke, desenvolvedora full stack que também define o que construir. Porto Alegre, RS, remoto ou híbrido. Ao lado, uma planta baixa se desenha e vira a interface de um sistema.">
+</picture>
 
-**Desenvolvedora full stack que também define o que construir.**
+Fui arquiteta antes de programar. Hoje sou desenvolvedora na **Orpen**, uma plataforma omnichannel: crio APIs e integrações em Node.js (NestJS) e Java (Spring Boot), interfaces em React com TypeScript e levo cada entrega do requisito ao deploy. Estou terminando Análise e Desenvolvimento de Sistemas na Unisinos.
 
-Fui arquiteta antes de programar. Hoje sou desenvolvedora na Orpen, uma plataforma omnichannel, onde trabalho com React, Node.js (NestJS) e Java (Spring Boot) e levo cada entrega do requisito ao deploy. Escrevo a spec antes do código, inclusive quando trabalho com IA.
+<br>
 
-Porto Alegre, RS · remoto ou híbrido · terminando Análise e Desenvolvimento de Sistemas na Unisinos
+## `01` Em destaque
 
----
+### [ChronoTracker](https://github.com/RafaBrietzke/ChronoTracker)
 
-#### Em destaque
+Plataforma SaaS de gestão de projetos e horas, feita para um desafio real da Sinosbyte na Residência em TIC 55.<br>
+**Papel:** líder do projeto e desenvolvimento · **Time:** 5 pessoas · **Resultado:** aprovado na banca final e premiado
 
-**[ChronoTracker](https://github.com/RafaBrietzke/ChronoTracker)**: plataforma SaaS de gestão de projetos e horas, feita para um desafio real da Sinosbyte na Residência em TIC 55. Liderei um time de 5 pessoas em 13 sprints, do discovery ao deploy. Foi aprovado na banca final e premiado.<br>
-`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,postgres,prisma&theme=dark" height="32" alt="React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma">
 
-**Plataforma Cultural POA** _(código público a partir de dez/2026)_: app mobile que reúne a agenda cultural de Porto Alegre num só lugar. É o meu TCC na Unisinos e já coletou 782 eventos automaticamente desde ago/2026.<br>
-`React Native` `Expo` `NestJS` `PostgreSQL` `Prisma`
+<details>
+<summary><b>Ver o caso em 30 segundos</b></summary>
+<br>
 
-#### Como eu trabalho
+- **Problema:** clientes, cronogramas e horas trabalhadas ficavam em planilhas separadas. Era difícil saber quanto cada projeto já tinha consumido.
+- **O que fiz:** conduzi o discovery com a empresa, transformei o pedido em backlog e roadmap de 13 sprints, replanejei depois da banca parcial e coloquei o sistema no ar cedo (Vercel, Render e Neon).
+- **Decisões que importaram:** cortar o escopo para o ciclo que gera valor (cadastrar → lançar horas → aprovar → relatório), bloquear lançamentos sobrepostos e mostrar previsto × gasto na própria lista de projetos.
 
-- **Construo:** ponta a ponta, com testes automatizados e deploy contínuo.
+<img src="assets/chronotracker.webp" width="100%" alt="Tela de lançamento de horas do ChronoTracker: formulário de projeto, atividade, data e horário à esquerda e a lista dos últimos lançamentos à direita.">
+
+</details>
+
+### Plataforma Cultural POA
+
+App mobile que reúne a agenda cultural de Porto Alegre num só lugar. É o meu TCC na Unisinos, com código público a partir de dez/2026.<br>
+**Papel:** idealização, produto e desenvolvimento · **Até agora:** 782 eventos coletados automaticamente desde ago/2026
+
+<img src="https://skillicons.dev/icons?i=react,expo,nestjs,postgres,prisma&theme=dark" height="32" alt="React Native, Expo, NestJS, PostgreSQL, Prisma">
+
+<br>
+
+## `02` Como eu trabalho
+
+```mermaid
+flowchart LR
+  A["Problema<br/>e usuários"] --> B["Spec e<br/>requisitos"] --> C["Código"] --> D["Testes"] --> E["Deploy"]
+  E -. "o que aprendi volta para a spec" .-> B
+```
+
+<details>
+<summary><b>O que isso quer dizer na prática</b></summary>
+<br>
+
+- **Construo** de ponta a ponta, com testes automatizados e deploy contínuo.
 - **Penso produto:** começo pelo problema e por quem vai usar, escrevo requisitos e priorizo.
 - **Organizo e entrego:** antes do código, passei quatro anos coordenando de 3 a 4 projetos simultâneos com clientes. Hoje também apoio a organização das sprints do time.
+- **Uso IA guiada por especificação:** cada entrega começa por uma spec, não por um prompt.
 
-#### Stack
+</details>
 
-|                  |                                                                       |
-| ---------------- | --------------------------------------------------------------------- |
-| **Front-end**    | React · Next.js · TypeScript · JavaScript · Tailwind CSS              |
-| **Back-end**     | Node.js · NestJS · Java · Spring Boot · PHP · APIs REST               |
-| **Mobile**       | React Native · Expo                                                   |
-| **Dados**        | PostgreSQL · MySQL · Oracle · Prisma                                  |
-| **Qualidade**    | Jest · Supertest · JUnit · WireMock · BDD · code review               |
-| **DevOps**       | Git · GitHub Actions · Docker · Linux                                 |
-| **IA**           | Spec-Driven Development · Claude Code · MCP                           |
-| **Produto**      | Requisitos · Scrum (SFC) · Jira · ClickUp · Miro                      |
+<br>
 
-#### Contato
+## `03` Stack
 
-[LinkedIn](https://www.linkedin.com/in/rafaela-brietzke) · [rlbrietzke@gmail.com](mailto:rlbrietzke@gmail.com)
-<!-- Quando o portfólio estiver no ar, acrescente: · [Portfólio](https://SEU-DOMINIO) -->
+| | |
+| :-- | :-- |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" height="40" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS"> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,php&theme=dark" height="40" alt="Node.js, NestJS, Java, Spring Boot, PHP"> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=react,expo&theme=dark" height="40" alt="React Native, Expo"> |
+| **Dados** | <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" height="40" alt="PostgreSQL, MySQL, Prisma"> &nbsp;+ Oracle |
+| **Qualidade** | <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" height="40" alt="Jest, Vitest"> &nbsp;+ JUnit · WireMock · BDD |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux&theme=dark" height="40" alt="Git, GitHub Actions, Docker, Linux"> |
+| **IA** | Spec-Driven Development · Claude Code · MCP |
+| **Produto** | Requisitos · Scrum (SFC) · Jira · ClickUp · Miro |
+
+<br>
+
+## `04` Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaela--brietzke-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-brietzke)
+[![E-mail](https://img.shields.io/badge/E--mail-rlbrietzke%40gmail.com-1a1a18?style=flat-square&logo=gmail&logoColor=white)](mailto:rlbrietzke@gmail.com)
+<!-- Quando o portfólio estiver no ar, acrescente:
+[![Portfólio](https://img.shields.io/badge/Portfólio-SEU--DOMINIO-2b44e0?style=flat-square)](https://SEU-DOMINIO) -->
+
+<sub>O banner é gerado por <code>scripts/banner.mjs</code> com as cores do meu portfólio.</sub>
