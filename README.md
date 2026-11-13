@@ -13,7 +13,7 @@ Sou desenvolvedora full stack na **Orpen**, uma plataforma omnichannel, onde ent
 
 - `agora` &nbsp;APIs e integrações em NestJS e Spring Boot, interfaces em React com TypeScript, requisitos e apoio às sprints
 - `formação` &nbsp;Análise e Desenvolvimento de Sistemas na Unisinos (conclusão em dez/2026) · Arquitetura e Urbanismo na PUCRS
-- `destaque` &nbsp;liderei o ChronoTracker, projeto premiado na Residência em TIC 55
+- `destaque` &nbsp;liderei o ChronoTracker na Residência em TIC 55: time de 5 pessoas, 13 sprints, aprovado na banca final
 - `onde` &nbsp;Porto Alegre, RS · remoto ou híbrido
 
 <br>
@@ -38,7 +38,7 @@ Sou desenvolvedora full stack na **Orpen**, uma plataforma omnichannel, onde ent
 ### [ChronoTracker](https://github.com/RafaBrietzke/ChronoTracker)
 
 Plataforma SaaS de gestão de projetos e horas, feita para um desafio real da Sinosbyte na Residência em TIC 55.<br>
-**Papel:** líder do projeto e desenvolvimento · **Time:** 5 pessoas · **Resultado:** aprovado na banca final e premiado
+**Papel:** líder do projeto e desenvolvimento · **Time:** 5 pessoas · **Resultado:** aprovado na banca final
 
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,postgres,prisma&theme=dark" height="32" alt="React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma">
 
